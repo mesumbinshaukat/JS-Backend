@@ -1,2 +1,11 @@
 FirstWebApp/node_modules
 FirstWebApp/.env
+01_WEBAPP/backend/node_modules
+01_WEBAPP/backend/.env
+01_WEBAPP/frontend/node_modules
+01_WEBAPP/frontend/public
+01_WEBAPP/frontend/main.js
+01_WEBAPP/frontend/style.css
+01_WEBAPP/frontend/javascript.svg
+01_WEBAPP/frontend/index.html
+01_WEBAPP/frontend/.gitignore
